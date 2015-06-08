@@ -1,2 +1,2 @@
-# CS164_Networks_Project
+# CS164_NetworksProject
 TCP connection + multithreading
